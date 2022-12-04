@@ -1,0 +1,14 @@
+1. How many dimensions are there in arr2 variable?
+   >>arr2.ndim
+
+2. Describe the number of rows and columns in arr2 variable
+   >>arr2.shape
+
+3.  How many elements there are in arr2 variable?
+    >> arr2.size
+
+4. Print the data type of arr2
+   >> arr2.dtype
+
+5. Print the data location in the memory
+   >> arr2.data
