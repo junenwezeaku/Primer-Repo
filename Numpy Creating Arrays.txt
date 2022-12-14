@@ -1,6 +1,6 @@
  import numpy as np
-1. np.arange(12)
-   arr= np.arange(12)
+1. arr= np.arange(12)
+   arr.reshape(4,3)
 
 2. arr2 = np.arange(16)
  
