@@ -1,0 +1,12 @@
+1. np.percentile(arr2, 50)
+2. np.mean(arr2)
+3. np.median(arr2)
+
+4. Create one dimensional normally distrubuted array with mean 3 standard deviation is 4 and has elements of 100
+	>> import numpy as np
+	   from numpy import array
+	   s = np.random.normal(loc= 3, scale= 4, size=100)
+
+5. Install matplotlib library for ploting purposes and then plot the s
+   	>>import matplotlib.pyplot as plt
+   	  plt.hist(s, density= False)
